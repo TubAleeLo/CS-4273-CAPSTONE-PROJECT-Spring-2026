@@ -1,8 +1,8 @@
 "# CS-4273-CAPSTONE-PROJECT-Spring-2026" 
 # CS-4273-CAPSTONE-PROJECT-Spring-2026 Group K
 
-##Project Description
+## Project Description
 
-##Technology Utilized
+## Technology Utilized
 
-##Progress Plan
+## Progress Plan
