@@ -59,4 +59,11 @@ Build a prototype no-code platform that enables non-technical users to:
 
 ## Technology Utilized
 
+Alee's Preposed Front-end: React or Next.js?
+Alee's Preposed UI Libraries: not fimiliar, so will leave that up to the team
+Alee's Preposed Backend / API: API's Given? FastAPI <https://fastapi.tiangolo.com>? not fimiliar with, or Node.js
+Alee's Rreposed NLP: not fimiliar, so will leave that up to the team
+Alee's Preposed LLM / AI: OPENAI API (If possibile i.e. open source), Claude API (If possible i.e. open source), Google Gemini (If possibile i.e. open source)
+Alee's Preposed Data Storage: PostgreSQL <https://www.postgresql.org>, open-source SQL framework
+
 ## Progress Plan
